@@ -7,7 +7,7 @@ Es una extension para google chrome / opera / firefox que permite ocultar tweets
 ## Instalarlo en opera / google chrome
 
 - Descargan la repo y descomprimen la carpeta en su lugar de preferencia.
-- En la url escriben `opera://extensions`
+- En la url escriben `opera://extensions` o en chrome `chrome://extensions`
 - Activan el modo developer
 - Hacen click en cargar descomprimida
 - Buscan la carpeta que descomprimieron
