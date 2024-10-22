@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Verified replies deleter",
+  "version": "1.0",
+  "permissions": ["activeTab"],
+  "description": "This is an extension to remove any veriefed account replies in twitter",
+  "content_scripts": [
+    {
+      "matches": ["*://*.x.com/*"],
+      "js": ["script.js"]
+    }
+  ]
+}
